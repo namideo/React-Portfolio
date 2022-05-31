@@ -1,0 +1,105 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+ul li {
+  display: inline;
+  padding: 5%;
+  font-size: large;
+  margin-left: 10%;
+}
+
+h1 {
+  color:rgb(48, 48, 176);
+}
+
+header {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+
+footer {
+  height: 250px;
+  background-color: rgb(48, 48, 48);
+  color: whitesmoke;
+}
+
+.column {
+  width: 50%;
+}
+
+.name {
+  text-align: right;
+  margin-top: 3%;
+}
+
+.links {
+  margin-top: 12%;
+}
+
+.About-Me {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+
+.profile-pic {
+  height: 500px;
+  width: 355px;
+  margin-top: 50px;
+  margin-left: 300px;
+}
+
+.Bio {
+  margin-top: 100px;
+  margin-left: 10%;
+  font-size: large;
+}
+
+.Contact {
+  margin-top: 50px;
+  padding-top: 100px;
+  padding-left: 30px;
+  display: grid;
+  grid-template-columns: auto auto auto auto auto;
+}
+
+#Work {
+  text-align: center;
+}
+
+.Work {
+  display: grid;
+  grid-template-columns: auto auto;
+  text-align: center;
+  align-content: center;
+}
+
+.Projects {
+  margin-right: 50px;
+  margin-bottom: 50px;
+}
+
+.image {
+  height: 250px;
+  width: 400px;
+}
+
+.Work {
+  margin-top: 100px;
+}
+
+#Work {
+  margin-top: 75px;
+}
+
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
