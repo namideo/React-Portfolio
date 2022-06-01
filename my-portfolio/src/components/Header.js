@@ -1,18 +1,16 @@
 import React from 'react'
 import Navigation from './Navigation'
 
-function Header() {
+function Header({ currentPage, handlePageChange }) {
     return (
     <header>
         
-        <div class='column name'>
+        <div className='column name'>
         <h1><strong>Nick Amideo</strong></h1>
        </div>
-        <div class='column'>
-        <Navigation />
+        <div className='column'>
+        <Navigation currentPage={currentPage} handlePageChange={handlePageChange}/>
         </div>
-        
-       
         
     </header>
     );
