@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https//namideo.github.io/React-Portfolio",
+  "homepage": "https//namideo.github.io/React-Portfolio/",
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
     "@fortawesome/free-brands-svg-icons": "^6.1.1",
@@ -22,7 +22,7 @@
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "react-loaders": "^3.0.1",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^5.0.1",
     "sass": "^1.52.1",
     "web-vitals": "^2.1.4"
   },
