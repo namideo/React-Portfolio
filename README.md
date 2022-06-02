@@ -24,3 +24,6 @@ In keeping up with current technologies, the purpose of this assignment is to de
 
 * The Footer contains links to the developer's GitHub, LinkedIn, and Twitter pages.
 
+## Mock Up
+
+![ReactPortfolio](https://user-images.githubusercontent.com/94868925/171550068-30439ab6-3a7c-457d-8569-0816ee6af9aa.gif)
