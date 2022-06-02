@@ -44,7 +44,11 @@ footer {
 }
 
 .links {
-  margin-top: 3%;
+  margin-top: 8%;
+  margin-left: 60%;
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  font-size: large;
 }
 
 #About-Me {
@@ -82,9 +86,11 @@ footer {
   grid-template-columns: auto auto;
   text-align: center;
   align-content: center;
+  overflow: scroll;
 }
 
 .Projects {
+  max-width: 500px;
   margin-right: 50px;
   margin-bottom: 50px;
 }
@@ -110,4 +116,8 @@ footer {
   .column {
     width: 100%;
   }
+  .profile-pic {
+    margin-left: 10px;
+  }
+ 
 }
