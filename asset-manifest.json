@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/https//namideo.github.io/React-Portfolio/static/css/main.17a1c10d.css",
-    "main.js": "/https//namideo.github.io/React-Portfolio/static/js/main.c44dd897.js",
+    "main.js": "/https//namideo.github.io/React-Portfolio/static/js/main.717f0607.js",
     "static/js/787.1ed0c42c.chunk.js": "/https//namideo.github.io/React-Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/Profile.jpg": "/https//namideo.github.io/React-Portfolio/static/media/Profile.b24dbda65c45dba0b836.jpg",
     "static/media/WorkScheduler.png": "/https//namideo.github.io/React-Portfolio/static/media/WorkScheduler.3b398f7ab1fe0bc09abd.png",
@@ -12,11 +12,11 @@
     "static/media/NoteTaker.jpeg": "/https//namideo.github.io/React-Portfolio/static/media/NoteTaker.3ec7277d7409a5156ae8.jpeg",
     "index.html": "/https//namideo.github.io/React-Portfolio/index.html",
     "main.17a1c10d.css.map": "/https//namideo.github.io/React-Portfolio/static/css/main.17a1c10d.css.map",
-    "main.c44dd897.js.map": "/https//namideo.github.io/React-Portfolio/static/js/main.c44dd897.js.map",
+    "main.717f0607.js.map": "/https//namideo.github.io/React-Portfolio/static/js/main.717f0607.js.map",
     "787.1ed0c42c.chunk.js.map": "/https//namideo.github.io/React-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.17a1c10d.css",
-    "static/js/main.c44dd897.js"
+    "static/js/main.717f0607.js"
   ]
 }
