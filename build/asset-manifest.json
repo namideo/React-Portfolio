@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/https//namideo.github.io/React-Portfolio/static/css/main.17a1c10d.css",
-    "main.js": "/https//namideo.github.io/React-Portfolio/static/js/main.717f0607.js",
-    "static/js/787.1ed0c42c.chunk.js": "/https//namideo.github.io/React-Portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/Profile.jpg": "/https//namideo.github.io/React-Portfolio/static/media/Profile.b24dbda65c45dba0b836.jpg",
-    "static/media/WorkScheduler.png": "/https//namideo.github.io/React-Portfolio/static/media/WorkScheduler.3b398f7ab1fe0bc09abd.png",
-    "static/media/Movies.jpeg": "/https//namideo.github.io/React-Portfolio/static/media/Movies.98ef1f49e7ec6553e29d.jpeg",
-    "static/media/EmployeeTracker.png": "/https//namideo.github.io/React-Portfolio/static/media/EmployeeTracker.408427c1379f50e80b14.png",
-    "static/media/PeopleEatery.jpeg": "/https//namideo.github.io/React-Portfolio/static/media/PeopleEatery.2840ccc41d63e19805fd.jpeg",
-    "static/media/WeatherApp.jpeg": "/https//namideo.github.io/React-Portfolio/static/media/WeatherApp.c63c29df34065de5c9fd.jpeg",
-    "static/media/NoteTaker.jpeg": "/https//namideo.github.io/React-Portfolio/static/media/NoteTaker.3ec7277d7409a5156ae8.jpeg",
-    "index.html": "/https//namideo.github.io/React-Portfolio/index.html",
-    "main.17a1c10d.css.map": "/https//namideo.github.io/React-Portfolio/static/css/main.17a1c10d.css.map",
-    "main.717f0607.js.map": "/https//namideo.github.io/React-Portfolio/static/js/main.717f0607.js.map",
-    "787.1ed0c42c.chunk.js.map": "/https//namideo.github.io/React-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/React-Portfolio/static/css/main.17a1c10d.css",
+    "main.js": "/React-Portfolio/static/js/main.ec985e23.js",
+    "static/js/787.1ed0c42c.chunk.js": "/React-Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Profile.jpg": "/React-Portfolio/static/media/Profile.b24dbda65c45dba0b836.jpg",
+    "static/media/WorkScheduler.png": "/React-Portfolio/static/media/WorkScheduler.3b398f7ab1fe0bc09abd.png",
+    "static/media/Movies.jpeg": "/React-Portfolio/static/media/Movies.98ef1f49e7ec6553e29d.jpeg",
+    "static/media/EmployeeTracker.png": "/React-Portfolio/static/media/EmployeeTracker.408427c1379f50e80b14.png",
+    "static/media/PeopleEatery.jpeg": "/React-Portfolio/static/media/PeopleEatery.2840ccc41d63e19805fd.jpeg",
+    "static/media/WeatherApp.jpeg": "/React-Portfolio/static/media/WeatherApp.c63c29df34065de5c9fd.jpeg",
+    "static/media/NoteTaker.jpeg": "/React-Portfolio/static/media/NoteTaker.3ec7277d7409a5156ae8.jpeg",
+    "index.html": "/React-Portfolio/index.html",
+    "main.17a1c10d.css.map": "/React-Portfolio/static/css/main.17a1c10d.css.map",
+    "main.ec985e23.js.map": "/React-Portfolio/static/js/main.ec985e23.js.map",
+    "787.1ed0c42c.chunk.js.map": "/React-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.17a1c10d.css",
-    "static/js/main.717f0607.js"
+    "static/js/main.ec985e23.js"
   ]
 }
